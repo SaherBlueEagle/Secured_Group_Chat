@@ -7,7 +7,7 @@
 # 📌 NOTE 5 * Online people with avatars list and names 
 # 📌 NOTE 6 * Open source you can update / develop add more options 
 # 📌 NOTE 7 * u also can change the encryption algorithm but keep the same changes in the client side x server side 
-          ; you can use memorycard module and write logs into Memory card also 
+#           ; NOTE : KEEP in Mind to make it more perfect / fast for remote connections ( remove sending base64 avater Images / etc..)
  
 SaherBlueEagle Secured Group Chat , Editable encryption key for both sides 
 # Client and Server View 
