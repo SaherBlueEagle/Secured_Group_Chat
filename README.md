@@ -9,6 +9,10 @@
 # 📌 NOTE 7 * u also can change the encryption algorithm but keep the same changes in the client side x server side 
 #           ; NOTE : KEEP in Mind to make it more perfect / fast for remote connections ( remove sending base64 avater Images / etc..)
  
+
+# Tutorial Video 
+https://www.facebook.com/NsBleeD/videos/369852531898763/
+
 SaherBlueEagle Secured Group Chat , Editable encryption key for both sides 
 # Client and Server View 
 <p align="center">
