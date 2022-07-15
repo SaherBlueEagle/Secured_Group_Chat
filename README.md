@@ -10,19 +10,19 @@
           ; you can use memorycard module and write logs into Memory card also 
  
 SaherBlueEagle Secured Group Chat , Editable encryption key for both sides 
+# Client and Server View 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/SaherBlueEagleHardwareKeylogger/main/hardware%20keylogger.png" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Secured_Group_Chat/main/client%20and%20server.jpg" ><br>
 </p>
-
-# 📌 Tools to be used to READ LOGS 
-# 📌 grab a login password from a PC (School / university ) Domain PCs , etc ...
+ 
+# 📌 Client Window & after Login Window
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/SaherBlueEagleHardwareKeylogger/main/hardware%20keylogger%20tools.png" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Secured_Group_Chat/main/client%20connected.jpg" ><br>
 </p>
-# 📌 THE Commercial Tool 
+# 📌 Server Window Control Manager
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/SaherBlueEagle/SaherBlueEagleHardwareKeylogger/main/keygrabber.png" ><br>
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/Secured_Group_Chat/main/server%20manager.jpg" ><br>
 </p>
